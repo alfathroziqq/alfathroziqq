@@ -1,6 +1,6 @@
 <img src="banner_alfath.jpg" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Alfath, a Full Stack Developer 👋🏼:
+# Hello World!, I'm Alfath, a Full Stack Developer 👋🏼
 👨🏻‍💻 Software Engineer & Machine Learning<br>👨🏼‍🎓 studying media based computer science at Sebelas Maret University<br>
 
 # 💻 Tech Stack:
