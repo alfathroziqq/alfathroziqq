@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="banner_alfath.jpg" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Alfath, a Full Stack Developer 👋🏼:
 👨🏻‍💻 Software Engineer & Machine Learning<br>👨🏼‍🎓 studying media based computer science at Sebelas Maret University<br>
