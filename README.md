@@ -5,7 +5,7 @@
 
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/AlfandiMario">
+<a href="https://github.com/alfathroziqq">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlfandiMario&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
